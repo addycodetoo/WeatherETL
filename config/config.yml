@@ -1,3 +1,0 @@
-api:
-  base_url: "http://api.openweathermap.org/data/2.5/weather"
-  api_key: "245e79dd62e5a320099911bd7c89caaa"  # Get free API key from https://home.openweathermap.org/users/sign_up
